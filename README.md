@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthik Chekuri</h1>
+<h1 align="center">Hi 👋, Welcome to Karthik's GITHUB</h1>
 <h3 align="center">I'm currently working on advanced multi-agent coordination patterns and autonomous decision-making frameworks</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikchekuri" alt="karthikchekuri" /></a> </p>
