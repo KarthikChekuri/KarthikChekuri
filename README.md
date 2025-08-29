@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **karthikchekuri0903@gmail.com**
 
-- 📄 Know about my experiences [https://karthikchekuri.tiiny.site](https://karthikchekuri.tiiny.site)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
