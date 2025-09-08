@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Prism Terminal](https://github.com/KarthikChekuri/prism-terminal.git)
 
-- 🌱 I’m currently learning **Advanced Multi-agent Coordination Patterns and Autonomous Decision-Making Frameworks**
+- 🌱 I’m currently learning **Product Building 0-1**
 
 - 📝 I regularly write articles on [https://medium.com/@chkarthikbusiness](https://medium.com/@chkarthikbusiness)
 
