@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Product Building 0-1**
 
-- 📝 I regularly write articles on [https://medium.com/@chkarthikbusiness](https://medium.com/@chkarthikbusiness)
+- 📝 Articles on [https://medium.com/@chkarthikbusiness](https://medium.com/@chkarthikbusiness)
 
 - 📫 How to reach me **karthikchekuri0903@gmail.com**
 
