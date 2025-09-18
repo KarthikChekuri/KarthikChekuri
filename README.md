@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Prism Terminal](https://github.com/KarthikChekuri/prism-terminal.git)
 
-- 🌱 I’m currently learning **Product Building 0-1**
+-  **Product Building 0-1**
 
 - 📝 Articles on [https://medium.com/@chkarthikbusiness](https://medium.com/@chkarthikbusiness)
 
