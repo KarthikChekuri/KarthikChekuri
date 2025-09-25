@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikchekuri" alt="karthikchekuri" /></a> </p>
 
-- 🔭 I’m currently working on [Prism Terminal](https://github.com/KarthikChekuri/prism-terminal.git)
+- 🔭 I’m currently working on www.renderlystudio.com
+
 
 -  **Product Building 0-1**
 
